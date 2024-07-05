@@ -1,0 +1,14 @@
+.b1, .b2 {
+    font-style: Helvetica, "Times New Toman", sans-serif;
+    font-size: 28px;
+}
+
+.b1 {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.b2 {
+    background-color: yellow;
+}
