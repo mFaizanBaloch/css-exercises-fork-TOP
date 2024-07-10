@@ -24,3 +24,25 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.big-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+
+.item-container {
+  display: flex;
+  gap: 52px;
+}
+
+.pepper-container, .saffron-container, .barberry-container, .chilli-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  max-width: 200px;
+}
